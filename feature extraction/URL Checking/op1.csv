@@ -1,0 +1,16 @@
+token_count,rank_host,rank_country,ASNno,sec_sen_word_cnt,avg_token_length,No_of_dots,malicious,Length_of_url,avg_path_token,IPaddress_presence,Length_of_host,safebrowsing,URL,host,avg_domain_token_length,path_token_count,path,largest_domain,domain_token_count,largest_path,largest_token
+3,2,1,15169,0,4.333333333333333,1,0,17,0,0,10,0,http://google.com,google.com,4.5,0,,6,2,0,6
+3,3,3,-1,0,5.0,1,0,19,0,0,12,0,http://facebook.com,facebook.com,5.5,0,,8,2,0,8
+7,-1,-1,-1,1,6.571428571428571,1,1,55,9.5,0,26,0,http://paypal-manager-account.net/konflikt/66211165125/,paypal-manager-account.net,5.75,2,/konflikt/66211165125/,7,4,11,11
+4,-1,-1,-1,0,4.5,1,1,23,0,0,16,0,http://prespa-birlik.se,prespa-birlik.se,4.666666666666667,0,,6,3,0,6
+3,8049630,-1,46636,0,7.666666666666667,1,1,27,0,0,20,0,http://recoverymechanic.com,recoverymechanic.com,9.5,0,,16,2,0,16
+3,-1,-1,-1,0,3.6666666666666665,1,1,15,0,0,8,0,http://segue.se,segue.se,3.5,0,,5,2,0,5
+3,14226890,-1,32244,0,7.333333333333333,1,1,26,0,0,19,0,http://dietplanstolose.com,dietplanstolose.com,9.0,0,,15,2,0,15
+8,2255,75,-1,0,6.125,2,1,59,7.75,0,16,0,http://vente-privee.com/vp4/Registration/Registration.aspx?,vente-privee.com,4.666666666666667,4,/vp4/Registration/Registration.aspx,6,3,12,12
+2,-1,-1,-1,0,12.5,0,1,28,0,0,21,0,http://weightwatcherscoupons,weightwatcherscoupons,21.0,0,,21,1,0,21
+3,-1,-1,2514,0,11.0,1,1,37,0,0,30,0,http://mortgagewoodbridgevirginia.com,mortgagewoodbridgevirginia.com,14.5,0,,26,2,0,26
+3,-1,-1,-1,0,6.666666666666667,1,1,24,0,0,17,0,http://powerfulhacks.com,powerfulhacks.com,8.0,0,,13,2,0,13
+7,1,2,15169,0,4.285714285714286,1,1,38,5.0,0,11,0,http://youtube.com/watch?v=oVBOnv-xrEY,youtube.com,5.0,1,/watch,7,2,5,7
+4,-1,-1,-1,0,4.75,1,1,24,0,0,17,0,http://www-mp3player.com,www-mp3player.com,5.0,0,,9,3,0,9
+3,2601936,-1,29169,0,2.6666666666666665,1,1,12,0,0,5,0,http://2u.lc,2u.lc,2.0,0,,2,2,0,4
+4,-1,-1,-1,0,4.25,2,1,27,0,0,1,0,http://(?<!www.)mybrute.com,(,0,0,,0,0,0,7

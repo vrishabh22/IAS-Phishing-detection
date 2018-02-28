@@ -1,0 +1,15 @@
+http://google.com,0
+http://facebook.com,0
+http://paypal-manager-account.net/konflikt/66211165125/,1
+http://prespa-birlik.se,1
+http://recoverymechanic.com,1
+http://segue.se,1
+http://dietplanstolose.com,1
+http://vente-privee.com/vp4/Registration/Registration.aspx?,1
+http://weightwatcherscoupons,1
+http://mortgagewoodbridgevirginia.com,1
+http://powerfulhacks.com,1
+http://youtube.com/watch?v=oVBOnv-xrEY,1
+http://www-mp3player.com,1
+http://2u.lc,1
+http://(?<!www.)mybrute.com,1
